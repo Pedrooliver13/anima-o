@@ -41,5 +41,5 @@ animation-iteration-count:infinite;
 
 <h2>MAS TUDO PODE SER SIMPLIFICADO ASSIM:</h2>
 animation : up 200ms ease-out;
-            nome , tempo, tipo de entrada (se é suave ou não)
+//nome , tempo, tipo de entrada (se é suave ou não)
 
