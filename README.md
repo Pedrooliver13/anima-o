@@ -6,7 +6,7 @@ animation-name:up;
 
 Tempo de Duração
 
-animation-duration: 200ms;
+<h2 style="color: #7159c1">animation-duration: 200ms;<h2>
 
 from: Inicio da animação
 
